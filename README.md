@@ -50,11 +50,11 @@ $ python .\manage.py runserver
 ```
 
 <h1 align="center"> Index Agenda</h1>
-<img src="https://github.com/RuanPabloSouza/Projeto_Agenda_contatos/blob/main/readme_files/Agenda.png">
+<img src="https://raw.githubusercontent.com/RuanPabloSouza/Projeto_Agenda_contatos/main/readme_files/Agenda.png">
 <h1 align="center"> Filtro de busca</h1>
-<img src="https://github.com/RuanPabloSouza/Projeto_Agenda_contatos/blob/main/readme_files/Busca.png">
+<img src="https://raw.githubusercontent.com/RuanPabloSouza/Projeto_Agenda_contatos/main/readme_files/Busca.png">
 <h1 align="center">Paginação</h1>
-<img src="https://github.com/RuanPabloSouza/Projeto_Agenda_contatos/blob/main/readme_files/Paginacao.png">
+<img src="https://raw.githubusercontent.com/RuanPabloSouza/Projeto_Agenda_contatos/main/readme_files/paginacao.png">
 <h1 align="center">Detalhes de Contato</h1>
-<img src="https://github.com/RuanPabloSouza/Projeto_Agenda_contatos/blob/main/readme_files/Ver_contato.png">
+<img src="https://raw.githubusercontent.com/RuanPabloSouza/Projeto_Agenda_contatos/main/readme_files/Ver_contato.png">
 
