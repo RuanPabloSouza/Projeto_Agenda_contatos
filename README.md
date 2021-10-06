@@ -1,4 +1,3 @@
-
 <h1 align="center">Projeto Agenda de Contatos</h1>
 <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/django?color=green&logo=Python&logoColor=blue">
 
@@ -14,13 +13,15 @@
 </p>
 <h4 align="center">Status:</h4>
 <h4 align="center"> 
-	🚧 🚀 Em construção...  🚧
+	 🚀 Finalizado...
 </h4>
 
 ### Features
-
-- [ ] Dashboard
-- [ ] Cadastro e controle de usuarios logados
+<p align="center">
+Features aplicadas, futuras atualizações seram feitos updates aqui.
+</p>
+- [x] Dashboard
+- [x] Cadastro e controle de usuarios logados
 - [x] Filtros de Pesquisa
 - [x] Paginação   
 
@@ -51,10 +52,11 @@ $ python .\manage.py runserver
 
 <h1 align="center"> Index Agenda</h1>
 <img src="https://raw.githubusercontent.com/RuanPabloSouza/Projeto_Agenda_contatos/main/readme_files/Agenda.png">
-<h1 align="center"> Filtro de busca</h1>
+<h1 align="center"> Filtro de busca e paginação</h1>
 <img src="https://raw.githubusercontent.com/RuanPabloSouza/Projeto_Agenda_contatos/main/readme_files/Busca.png">
-<h1 align="center">Paginação</h1>
-<img src="https://raw.githubusercontent.com/RuanPabloSouza/Projeto_Agenda_contatos/main/readme_files/paginacao.png">
-<h1 align="center">Detalhes de Contato</h1>
+<h1 align="center">Dashboard simples para adição de novos contatos</h1>
+<img src="https://raw.githubusercontent.com/RuanPabloSouza/Projeto_Agenda_contatos/main/readme_files/Dashboard.png">
+<h1 align="center">Pagina de login com filtros aplicados</h1>
+<img src="https://raw.githubusercontent.com/RuanPabloSouza/Projeto_Agenda_contatos/main/readme_files/Login.png">
+<h1 align="center">Detalhes de contatos</h1>
 <img src="https://raw.githubusercontent.com/RuanPabloSouza/Projeto_Agenda_contatos/main/readme_files/Ver_contato.png">
-
