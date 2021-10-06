@@ -17,9 +17,8 @@
 </h4>
 
 ### Features
-<p align="center">
+
 Features aplicadas, futuras atualizações seram feitos updates aqui.
-</p>
 - [x] Dashboard
 - [x] Cadastro e controle de usuarios logados
 - [x] Filtros de Pesquisa
@@ -60,3 +59,7 @@ $ python .\manage.py runserver
 <img src="https://raw.githubusercontent.com/RuanPabloSouza/Projeto_Agenda_contatos/main/readme_files/Login.png">
 <h1 align="center">Detalhes de contatos</h1>
 <img src="https://raw.githubusercontent.com/RuanPabloSouza/Projeto_Agenda_contatos/main/readme_files/Ver_contato.png">
+<h1 align="center">Cadastrar novo usuario</h1>
+<img src="https://raw.githubusercontent.com/RuanPabloSouza/Projeto_Agenda_contatos/main/readme_files/cadastrar.png">
+
+
